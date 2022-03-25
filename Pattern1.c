@@ -1,3 +1,10 @@
+
+//    1
+//   232
+//  34543
+// 4567654
+//567898765
+
 // C program to illustrate the above
 // given pattern of numbers.
 #include<stdio.h>
